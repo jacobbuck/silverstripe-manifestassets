@@ -1,0 +1,15 @@
+{
+  "name": "jacobbuck/silverstripe-manifestassets",
+  "description": "Get the path of an asset from a generated assets manifest file.",
+  "type": "silverstripe-module",
+  "keywords": ["silverstripe", "assets", "manifest", "theme", "webpack"],
+  "authors": [
+    {
+      "name": "Jacob Buck",
+      "email": "buck.jacob@gmail.com"
+    }
+  ],
+  "require": {
+    "silverstripe/framework": "~3.1"
+  }
+}
