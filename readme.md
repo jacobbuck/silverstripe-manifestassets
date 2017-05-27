@@ -7,7 +7,7 @@ Get the path of an asset from a generated assets manifest file.
 In your template you can get the url to your asset:
 
 ```html
-<script src="$ManifestAsset('awesome.js')" type="script/javascript"></script>
+<script src="$ManifestAsset('awesome.js')" type="application/javascript"></script>
 ```
 
 It also works with Requirements:
